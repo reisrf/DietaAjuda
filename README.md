@@ -18,25 +18,22 @@ Vou te ajudar a definir sua meta calórica. Mas lembre que é importante ter um 
 
 DietaAjuda: Preciso saber seu gênero: M ou F
 > M
-
 DietaAjuda: Qual sua idade? 5 - 95 anos
 > 58
-
 DietaAjuda: Qual sua altura em centimetros? 50 a 250 cm
 > 190
-
 DietaAjuda: Qual seu peso atual em quilos?
 > 98
-
 DietaAjuda: Você se exercita quantas vezes por semana?
 Informe um número de 0 (sedentário) a 7 (super ativo)
 > 4
-
 DietaAjuda: Quantos quilos deseja emagrecer por mês
 (recomendado de 1 a 2 Kg)
 > 2
 
-DietaAjuda: Para perder 2kg por mês com seu perfil, consuma entre 2200 e 2400 calorias diárias, priorizando proteínas e fibras, e mantendo o exercício regular.
+DietaAjuda: Olá! Para você, com 58 anos, 1,90m de altura, 98kg e se exercitando 4 vezes por semana, uma estimativa segura para perder cerca de 2kg por mês seria consumir entre 2200 e 2500 calorias por dia.
+
+Lembre-se que essa é uma estimativa e pode variar de pessoa para pessoa. O ideal é consultar um nutricionista para um plano alimentar personalizado! 😊
 
 DietaAjuda: Informe os alimentos e quantidade.
 Exemplo:
@@ -44,18 +41,23 @@ Exemplo:
 1 fatia de mussarela
 ...
 Para sair o chat digite FIM
+> 1 pão francês, 1 colher de sobremesa de manteiga, 1 fatia de mussarela, 1 ovo branco cozido
 
-> 1 pão francês, uma colher de sobremesa de manteiga, 1 fatia de mussarela e 1 ovo branco cozido
+DietaAjuda: Com base nos alimentos que você mencionou:
 
-DietaAjuda: Aproximadamente 350-400 calorias.
+1 pão francês: Aproximadamente 140 calorias
+1 colher de sobremesa de manteiga: Aproximadamente 50 calorias
+1 fatia de mussarela: Aproximadamente 85 calorias
+1 ovo cozido: Aproximadamente 78 calorias
+Somando tudo, você consumiu cerca de 353 calorias. 😊
+
 Continue informando o que você ingeriu (comidas e bebidas):
 > 1 suco de laranja 200ml
 
-
-DietaAjuda: Aproximadamente 450-500 calorias.
-
+DietaAjuda: Adicionando o suco de laranja (200ml, aproximadamente 90 calorias) ao que você já havia consumido (353 calorias), o total fica em torno de 443 calorias. 😉
 Continue informando o que você ingeriu (comidas e bebidas):
-> FIM
+
+FIM
 
 
 Tchau, foi um prazer, continue firme na sua dieta.
