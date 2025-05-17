@@ -45,7 +45,7 @@ Exemplo:
 ...
 Para sair o chat digite FIM
 
-1 pão francês, uma colher de sobremesa de manteiga, 1 fatia de mussarela e 1 ovo branco cozido
+> 1 pão francês, uma colher de sobremesa de manteiga, 1 fatia de mussarela e 1 ovo branco cozido
 
 DietaAjuda: Aproximadamente 350-400 calorias.
 Continue informando o que você ingeriu (comidas e bebidas):
